@@ -202,7 +202,7 @@ Flow 模型是动态形状的，首次未见长度会触发 ~12-17 秒 GPU kerne
 
 ### GPU 调度优化（2026-07-20 SM8850）
 
-在 Honor BKQ_AN90 (SM8850) 上对比三种 OpenCL 内存模式：
+在荣耀 Magic8 Pro (SM8850) 上对比三种 OpenCL 内存模式：
 
 | Mode | Flow 耗时 |
 |------|-----------|
@@ -304,7 +304,7 @@ research/mnn-cosyvoice3/
 
 ## 8. 性能数据汇总
 
-### 端到端（Honor BKQ_AN90 / SM8850 / Adreno 840 / 12 GB RAM）
+### 端到端（荣耀 Magic8 Pro / SM8850 / Adreno 840 / 12 GB RAM）
 
 | 配置 | 冷启动 | 热态 |
 |------|--------|------|
