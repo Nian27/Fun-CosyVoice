@@ -1,0 +1,25 @@
+{
+  "artifacts": [
+    {
+      "name": "mnn-windows",
+      "file": "mnn_3.5.0_windows_x64_cpu_opencl.zip",
+      "url": "https://github.com/alibaba/MNN/releases/download/3.5.0/mnn_3.5.0_windows_x64_cpu_opencl.zip",
+      "size": 240117316,
+      "sha256": "e37dbed6a5a6c26122239468d7fc8569d003c7f4a12c8a8024a33660fb13e4b7"
+    },
+    {
+      "name": "mnn-android",
+      "file": "mnn_3.5.0_android_armv7_armv8_cpu_opencl_vulkan.zip",
+      "url": "https://github.com/alibaba/MNN/releases/download/3.5.0/mnn_3.5.0_android_armv7_armv8_cpu_opencl_vulkan.zip",
+      "size": 5991823,
+      "sha256": "b5513459ee5d70dec98e7a0763ce2d09a9824897c150069e65b2b1a04570c573"
+    },
+    {
+      "name": "cosyvoice3-flow-onnx",
+      "file": "flow.decoder.estimator.fp32.onnx",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/main/flow.decoder.estimator.fp32.onnx",
+      "size": 1326216933,
+      "sha256": "9b51b9533a55937762b262bf2cf9c6220ce40760f76d6532cb16a6a6d84059a8"
+    }
+  ]
+}

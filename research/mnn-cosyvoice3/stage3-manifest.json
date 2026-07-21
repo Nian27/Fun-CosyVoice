@@ -1,0 +1,83 @@
+{
+  "revision": "29e01c4e8d000f4bcd70751be16fa94bf3d85a18",
+  "artifacts": [
+    {
+      "name": "campplus",
+      "file": "campplus.onnx",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/campplus.onnx?download=true",
+      "size": 28303423,
+      "sha256": "a6ac6a63997761ae2997373e2ee1c47040854b4b759ea41ec48e4e42df0f4d73"
+    },
+    {
+      "name": "blank-config",
+      "file": "CosyVoice-BlankEN/config.json",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/CosyVoice-BlankEN/config.json?download=true",
+      "size": 659
+    },
+    {
+      "name": "blank-generation-config",
+      "file": "CosyVoice-BlankEN/generation_config.json",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/CosyVoice-BlankEN/generation_config.json?download=true",
+      "size": 242
+    },
+    {
+      "name": "blank-merges",
+      "file": "CosyVoice-BlankEN/merges.txt",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/CosyVoice-BlankEN/merges.txt?download=true",
+      "size": 1402109
+    },
+    {
+      "name": "blank-model",
+      "file": "CosyVoice-BlankEN/model.safetensors",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/CosyVoice-BlankEN/model.safetensors?download=true",
+      "size": 988097824,
+      "sha256": "130282af0dfa9fe5840737cc49a0d339d06075f83c5a315c3372c9a0740d0b96"
+    },
+    {
+      "name": "blank-tokenizer-config",
+      "file": "CosyVoice-BlankEN/tokenizer_config.json",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/CosyVoice-BlankEN/tokenizer_config.json?download=true",
+      "size": 1287
+    },
+    {
+      "name": "blank-vocab",
+      "file": "CosyVoice-BlankEN/vocab.json",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/CosyVoice-BlankEN/vocab.json?download=true",
+      "size": 2776833
+    },
+    {
+      "name": "config",
+      "file": "cosyvoice3.yaml",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/cosyvoice3.yaml?download=true",
+      "size": 6934
+    },
+    {
+      "name": "flow",
+      "file": "flow.pt",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/flow.pt?download=true",
+      "size": 1329116148,
+      "sha256": "a6fab32a7825e5b0bc855ddd948f8db9370b0a786fbc249caa4595e95b608e4b"
+    },
+    {
+      "name": "hift",
+      "file": "hift.pt",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/hift.pt?download=true",
+      "size": 83202622,
+      "sha256": "b279d7641eb97ae55b3b540cfba4f953c26492a2df758328a89a4d007ab87a65"
+    },
+    {
+      "name": "llm-rl",
+      "file": "llm.rl.pt",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/llm.rl.pt?download=true",
+      "size": 2024682701,
+      "sha256": "74d34b01a80c7154670ae75ac372d1b1712c78bceae9f467eb9f1f6f61ec764f"
+    },
+    {
+      "name": "speech-tokenizer",
+      "file": "speech_tokenizer_v3.onnx",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/29e01c4e8d000f4bcd70751be16fa94bf3d85a18/speech_tokenizer_v3.onnx?download=true",
+      "size": 969451503,
+      "sha256": "23236a74175dbdda47afc66dbadd5bcb41303c467a57c261cb8539ad9db9208d"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "artifacts": [
+    {
+      "name": "cosyvoice3-hift-pytorch",
+      "file": "hift.pt",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/main/hift.pt?download=true",
+      "size": 83202622,
+      "sha256": "b279d7641eb97ae55b3b540cfba4f953c26492a2df758328a89a4d007ab87a65"
+    },
+    {
+      "name": "cosyvoice3-config",
+      "file": "cosyvoice3.yaml",
+      "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512/resolve/7067950070211f149d9bf25642cc961cad06fa02/cosyvoice3.yaml?download=true",
+      "size": 6934,
+      "sha256": "f5a6b2c6f05139d0f18861a1fe506f751e787026b77c05f7e8fef9f8a4405965"
+    }
+  ]
+}

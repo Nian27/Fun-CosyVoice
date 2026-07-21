@@ -478,8 +478,14 @@ Fun-CosyVoice/
 ├── build.gradle.kts                  # 根构建脚本
 ├── settings.gradle.kts               # 项目设置
 ├── gradlew / gradlew.bat             # Gradle Wrapper
+├── research/
+│   └── mnn-cosyvoice3/              # 完整模型移植研究脚本（可复现的蒸馏/构建/基准）
+│       ├── scripts/*.py              # Python：蒸馏训练、模型导出、数值验证
+│       ├── *.ps1                     # PowerShell：构建、运行、基准测试
+│       ├── STAGE3_FEASIBILITY.md     # Flow 蒸馏可行性报告
+│       └── VOICE_ENROLLMENT*.md      # 音色创建方案
 └── docs/
-    └── DEVELOPMENT_STORY.md          # 开发全流程记录（本文件）
+    └── DEVELOPMENT_STORY.md          # 开发全流程记录
 ```
 
 ### 核心代码行数统计

@@ -17,3 +17,11 @@ out/
 *.hprof
 .cxx/
 .externalNativeBuild/
+__pycache__/
+*.pyc
+.venv/
+.venv-export/
+models/
+downloads/
+results/
+logs/
