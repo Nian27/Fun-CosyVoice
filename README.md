@@ -4,7 +4,7 @@
 
 > 本次发布由 DeepSeek V4 Pro 负责。有啥问题怪他不发正式版。
 
-从 [Legado / 阅读 Archive](https://github.com/gedoor/Legado) 的 `cosytest` 分支独立出来的 CosyVoice3 本地 TTS App。使用阿里 MNN 推理引擎，全部在手机本地运行，无需联网。
+CosyVoice3 本地 TTS App。使用阿里 MNN 推理引擎，全部在手机本地运行，无需联网。
 
 ---
 
