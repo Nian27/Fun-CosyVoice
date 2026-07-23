@@ -462,6 +462,13 @@ fun detectBestFlowBackend(): String {
 
 ```
 Fun-CosyVoice/
+├── mnn-jni/                         # 🔧 MNN JNI C++ 源码（14 个文件 + CMakeLists.txt）
+│   ├── CosyVoiceLlmJni.cpp           #    LLM JNI 包装
+│   ├── CosyVoiceFlowJni.cpp          #    Flow JNI 包装
+│   ├── CosyVoiceHiFTJni.cpp          #    HiFT JNI 包装
+│   ├── CosyVoiceEnrollmentJni.cpp    #    音色注册 JNI 包装
+│   ├── CosyVoice*Benchmark.cpp       #    各模块真机基准测试
+│   └── CMakeLists.txt                #    编译配置
 ├── app/
 │   ├── build.gradle.kts              # Android 应用配置
 │   └── src/main/
