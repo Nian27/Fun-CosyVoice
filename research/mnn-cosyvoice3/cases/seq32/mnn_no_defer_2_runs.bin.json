@@ -1,0 +1,20 @@
+{
+  "backend": "cpu",
+  "precision": "high",
+  "sequenceLength": 32,
+  "loadMs": 2512.248900,
+  "firstRunMs": 401.130400,
+  "steadyAverageMs": 454.111200,
+  "steadyMedianMs": 454.111200,
+  "memoryMb": 1299.038696,
+  "flopsM": 11978.570312,
+  "primaryBackendType": 13,
+  "backupBackendType": -1,
+  "outputShape": "[2,80,32]",
+  "outputElements": 5120,
+  "finite": true,
+  "min": -11.136863,
+  "max": 3.185477,
+  "mean": -4.843370,
+  "rms": 5.304399
+}

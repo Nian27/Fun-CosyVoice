@@ -1,0 +1,23 @@
+{
+  "runtime": "onnxruntime-cpu",
+  "onnxruntimeVersion": "1.23.2",
+  "sequenceLength": 414,
+  "threads": 6,
+  "loadMs": 2509.987600000386,
+  "firstRunMs": 1074.975199999244,
+  "steadyAverageMs": 1055.972300000576,
+  "steadyMedianMs": 1055.972300000576,
+  "output": {
+    "shape": [
+      2,
+      80,
+      414
+    ],
+    "elements": 66240,
+    "finite": true,
+    "min": -10.955313682556152,
+    "max": 4.894847869873047,
+    "mean": -5.148527145385742,
+    "rms": 5.561862625845617
+  }
+}

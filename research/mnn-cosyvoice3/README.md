@@ -1,5 +1,17 @@
 # CosyVoice3 MNN Android benchmark
 
+> ⚠️ **研究代码，不是开箱即用的产品。**
+>
+> 脚本里硬编码了作者本机的绝对路径（`E:\AndroidStudioProjects\...`、`D:\anaconda3\...` 等），
+> 直接运行会报错。使用前需要把路径改成你自己的环境：
+> - Python/Conda 路径 → 改成你的 Python 环境
+> - Android NDK/SDK 路径 → 改成你的 NDK
+> - MNN 源码路径 → clone MNN 后改成你的路径
+> - 手机 ADB 序列号 → 改成你的设备
+>
+> `models/`、`downloads/`、`results/`、`build/` 目录不在仓库里（太大或生成物），
+> 需要按脚本里的下载/构建命令自己生成。case 测试输入数据（`cases/`）已包含。
+
 This directory is an isolated feasibility benchmark. It does not modify or package the Reading Archive app.
 
 ## Stage 3: RL teacher and Flow step gate

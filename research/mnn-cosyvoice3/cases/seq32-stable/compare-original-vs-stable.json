@@ -1,0 +1,11 @@
+{
+  "elements": 5120,
+  "referenceFinite": true,
+  "candidateFinite": true,
+  "maxAbs": 0.006495237350463867,
+  "meanAbs": 0.0002537061052862555,
+  "rmsError": 0.0005595495831647009,
+  "maxRelative": 1.1061024610748367,
+  "withinAbsToleranceRatio": 0.1927734375,
+  "absTolerance": 1e-05
+}
